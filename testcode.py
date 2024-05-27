@@ -1,7 +1,7 @@
 array1 = ["Alice", "Bob", "Charlie", "Frank", "Jack", "Jack"]
-array2 = ["David", "Eve", "Charlie", "Alice", "Bob", "Frank", "Grace", "Liam"]
+array2 = ["Majd", "Eve", "Charlie", "Alice", "Bob", "Frank", "Grace", "Liam"]
 array3 = ["Henry", "Ivy", "Jack", "Kate", "Alice", "Liam", "Ivy"]
-array4 = ["David", "Ivy", "Eve", "Bob", "Frank", "Liam", "Frank", "Charlie", "Alice"]
+array4 = ["Majd", "Ivy", "Eve", "Bob", "Frank", "Liam", "Frank", "Charlie", "Alice"]
 
 arr = array1 + array2 + array3 + array4
 dictionary = {}
